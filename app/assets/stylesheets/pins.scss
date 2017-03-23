@@ -4,11 +4,19 @@
 }
 #columns figure{
   display:inline-block;
+<<<<<<< HEAD
   margin: 0px auto;
   border: 1px solid rgba(0,0,0,0.2);
   padding: 10px;
   margin-bottom: 20px;
   box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+=======
+  margin: 0 auto;
+  border: 1px solid rgba(0,0,0,0.2);
+  padding: 10px;
+  margin-bottom: 20px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.5);;
+>>>>>>> 788b81090de5a48d3b92de661ebd7488d14b415d
 }
 #columns figure img{
   margin-bottom: 30px;

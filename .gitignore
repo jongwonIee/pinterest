@@ -19,6 +19,7 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+<<<<<<< HEAD
 /.idea
 
 *.swp
@@ -89,3 +90,5 @@ solr
 public/assets
 # Ignore application configuration
 /config/application.yml
+=======
+>>>>>>> 788b81090de5a48d3b92de661ebd7488d14b415d
