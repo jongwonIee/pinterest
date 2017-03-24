@@ -4,10 +4,9 @@
 }
 #columns figure {
   display: inline-block;
-  margin: 0px auto;
+  margin: 0 auto;
   border: 1px solid rgba(0, 0, 0, 0.2);
   padding: 10px;
-  margin-bottom: 20px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
   margin-bottom: 30px;
 }
@@ -17,4 +16,7 @@
 #columns figure figcaption{
   border-top: 1px solid rgba(0,0,0,0.2);
   padding: 10px;
+}
+#logo img {
+  width: 50px;
 }

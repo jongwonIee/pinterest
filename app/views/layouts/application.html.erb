@@ -9,9 +9,8 @@
   </head>
 
   <body>
-    <%= link_to 'Home', main_path %>
+    <%= link_to image_tag('logo.png'), main_path, id: 'logo' %>
     <%= link_to 'Facebook', href="https://www.facebook.com/games/pinterestapp" %>
-    <a href="https://facebook.com/games/pinterestapp">Facebook</a>
     <%= yield %>
   </body>
 </html>
