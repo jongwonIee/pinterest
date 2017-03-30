@@ -16,7 +16,7 @@ class PinsController < ApplicationController
     end
   end
 
-  private
+
   def pin_params
     params.require(:pin).permit(:body)
   end
